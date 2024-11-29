@@ -106,11 +106,11 @@ function init() {
     });
 
     // Get the first sample from the list
-<<<<<<< HEAD:static/js/app.js
-    const firstSample = sampleNames[0];
-=======
+
     let firstSample = sampleNames[0];
->>>>>>> bcbca25 (last commit):Starter_Code/static/js/app.js
+
+    let firstSample = sampleNames[0];
+
     console.log(firstSample);
 
     // Build charts and metadata panel with the first sample
