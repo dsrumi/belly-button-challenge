@@ -109,7 +109,7 @@ function init() {
 
     let firstSample = sampleNames[0];
 
-    let firstSample = sampleNames[0];
+    
 
     console.log(firstSample);
 
